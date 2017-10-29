@@ -1,5 +1,5 @@
-.hostapd MANA - precompiled for Raspbian, Kernel 4.9.51+
-=========================================================
+hostapd MANA - precompiled for Raspbian, Kernel 4.9.51+
+=======================================================
 
 This work has been done by Dominic White (singe) & Ian de Villiers @ sensepost (research@sensepost.com)
 
